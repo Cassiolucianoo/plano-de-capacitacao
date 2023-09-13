@@ -1,2 +1,2 @@
-# plano-de-capacitacao
+# plano de capacitacao
 Este repositório foi criado com o objetivo de ajudar A se prepararem para entrevistas de emprego que envolvem programação Swift. Ele reúne recursos essenciais e informações cruciais que os candidatos precisam conhecer para se destacarem em suas entrevistas técnicas. O conteúdo deste repositório é especialmente voltado para aqueles que estão no início de suas carreiras de desenvolvedor iOS e desejam conquistar oportunidades de trabalho na área.
